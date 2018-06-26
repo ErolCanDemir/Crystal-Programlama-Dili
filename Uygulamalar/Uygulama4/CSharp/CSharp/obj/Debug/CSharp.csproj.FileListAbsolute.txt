@@ -1,0 +1,6 @@
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\CSharp\CSharp\bin\Debug\CSharp.exe.config
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\CSharp\CSharp\bin\Debug\CSharp.exe
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\CSharp\CSharp\bin\Debug\CSharp.pdb
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\CSharp\CSharp\obj\Debug\CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\CSharp\CSharp\obj\Debug\CSharp.exe
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\CSharp\CSharp\obj\Debug\CSharp.pdb
