@@ -1,0 +1,13 @@
+require "./Uygulama16/*"
+
+module Uygulama16
+
+def erol(sayi) 
+
+puts sayi
+
+end
+
+erol(16)
+
+

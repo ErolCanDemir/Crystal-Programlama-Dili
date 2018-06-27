@@ -1,0 +1,47 @@
+require "./uygulama21/*"
+
+module Uygulama21
+ 
+class Insan
+
+def initialize(ad :  String )
+
+	@ad = ad
+	@yas = yas 
+	@numara = numara
+end
+
+def ad 
+	@ad
+end
+
+def yas
+	@yas
+end
+
+def numara
+	@numara
+end
+
+end
+
+kisi1 = New.insan "erol"
+kisi2 = New.insan "ahmet"
+
+kisi1.ad = "erol"
+kisi1.yas = 20
+kisi1.numara = 11
+
+kisi2.ad = "veli"
+kisi2.yas = 30
+kisi2.numara = 9
+
+puts kisi1.ad 
+puts kisi1.yas
+puts kisi1.numara 
+puts kisi2.ad 
+puts kisi2.yas 
+puts kisi2.numara 
+end
+
+

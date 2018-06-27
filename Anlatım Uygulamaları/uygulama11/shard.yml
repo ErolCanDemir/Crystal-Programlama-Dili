@@ -1,0 +1,13 @@
+name: uygulama11
+version: 0.1.0
+
+authors:
+  - [your-name-here] <[your-email-here]>
+
+targets:
+  uygulama11:
+    main: src/uygulama11.cr
+
+crystal: 0.23.1
+
+license: MIT

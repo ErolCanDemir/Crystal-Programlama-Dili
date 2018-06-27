@@ -1,0 +1,13 @@
+name: Uygulama17
+version: 0.1.0
+
+authors:
+  - [your-name-here] <[your-email-here]>
+
+targets:
+  Uygulama17:
+    main: src/Uygulama17.cr
+
+crystal: 0.23.1
+
+license: MIT

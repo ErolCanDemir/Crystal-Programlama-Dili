@@ -1,0 +1,60 @@
+require "./uygulama3/*"
+
+module Uygulama3
+
+veritipi1 = nil
+puts " Veri Tipi1 değişkeninin veri tipi = \t #{typeof(veritipi1)}"
+puts "\n"
+puts "\n"
+
+
+veritipi2 = true
+puts "Veri Tipi2 DEğişkeninin içindeki değer = ", veritipi2
+puts " Veri Tipi2 değişkeninin veri tipi = \t #{typeof(veritipi2)}"
+puts "\n"
+puts "\n"
+
+
+veritipi3 = 'a'
+puts "Veri Tipi3 DEğişkeninin içindeki değer = " ,veritipi3
+puts " Veri Tipi3 değişkeninin veri tipi = \t #{typeof(veritipi3)}"
+puts "\n"
+puts "\n"
+
+
+veritipi4 = "Crystal"
+puts "Veri Tipi4 DEğişkeninin içindeki değer = " ,veritipi4
+puts " Veri Tipi4 değişkeninin veri tipi = \t #{typeof(veritipi4)}"
+puts "\n"
+puts "\n"
+
+
+veritipi5 = 10
+puts "Veri Tipi5 DEğişkeninin içindeki değer = " ,veritipi5
+puts " Veri Tipi5 değişkeninin veri tipi = \t #{typeof(veritipi5)}"
+puts "\n"
+puts "\n"
+
+
+veritipi6 = 5.6
+puts "Veri Tipi6 DEğişkeninin içindeki değer = " ,veritipi6
+puts " Veri Tipi6 değişkeninin veri tipi = \t #{typeof(veritipi6)}"
+puts "\n"
+puts "\n"
+
+
+veritipi7 = :erol
+puts "Veri Tipi7 DEğişkeninin içindeki değer = ", veritipi7
+puts " Veri Tipi7 değişkeninin veri tipi = \t #{typeof(veritipi7)}"
+puts "\n"
+puts "\n"
+
+
+veritipi8 = [1,2,3]
+puts "Veri Tipi8 DEğişkeninin içindeki değer = " ,veritipi8
+puts " Veri Tipi8 değişkeninin veri tipi = \t #{typeof(veritipi8)}"
+
+
+
+end
+

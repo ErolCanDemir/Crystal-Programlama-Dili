@@ -1,0 +1,5 @@
+require "./uygulama24/*"
+
+module Uygulama24
+  # TODO Put your code here
+end

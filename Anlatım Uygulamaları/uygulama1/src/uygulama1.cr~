@@ -1,0 +1,7 @@
+require "./uygulama1/*"
+
+module Uygulama1
+  a = 10
+b= 5 
+puts a+b
+end

@@ -1,0 +1,5 @@
+require "./uygulama13/*"
+
+module Uygulama13
+  # TODO Put your code here
+end

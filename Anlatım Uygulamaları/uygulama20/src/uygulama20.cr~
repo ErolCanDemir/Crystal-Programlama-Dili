@@ -1,0 +1,14 @@
+require "./uygulama20/*"
+
+module Uygulama20
+class Hayvan
+
+age = 10
+
+aslan = Hayvan.new
+at = Hayvan.new
+
+puts aslan.age
+
+end
+end

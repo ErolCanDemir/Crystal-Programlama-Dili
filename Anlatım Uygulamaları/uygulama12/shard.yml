@@ -1,0 +1,13 @@
+name: uygulama12
+version: 0.1.0
+
+authors:
+  - [your-name-here] <[your-email-here]>
+
+targets:
+  uygulama12:
+    main: src/uygulama12.cr
+
+crystal: 0.23.1
+
+license: MIT

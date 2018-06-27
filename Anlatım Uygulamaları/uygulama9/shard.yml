@@ -1,0 +1,13 @@
+name: uygulama9
+version: 0.1.0
+
+authors:
+  - [your-name-here] <[your-email-here]>
+
+targets:
+  uygulama9:
+    main: src/uygulama9.cr
+
+crystal: 0.23.1
+
+license: MIT

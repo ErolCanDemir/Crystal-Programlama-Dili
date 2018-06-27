@@ -1,0 +1,13 @@
+name: Uygulama16
+version: 0.1.0
+
+authors:
+  - [your-name-here] <[your-email-here]>
+
+targets:
+  Uygulama16:
+    main: src/Uygulama16.cr
+
+crystal: 0.23.1
+
+license: MIT

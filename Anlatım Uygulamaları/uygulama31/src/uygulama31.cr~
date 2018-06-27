@@ -1,0 +1,19 @@
+require "./uygulama31/*"
+
+module Uygulama31
+
+enum Takimlar
+
+	Galatasaray
+	Fenerbahce
+	Besiktas = 8
+	Trabzonspor
+
+end
+
+puts Takimlar::Galatasaray.value
+puts Takimlar::Fenerbahce.value
+puts Takimlar::Besiktas.value
+puts Takimlar::Trabzonspor.value
+
+end

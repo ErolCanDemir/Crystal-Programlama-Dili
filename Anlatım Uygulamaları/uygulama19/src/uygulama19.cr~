@@ -1,0 +1,13 @@
+require "./uygulama19/*"
+
+module Uygulama19
+
+class Kristal
+
+puts "Merhaba Crystal programlama dili"
+
+puts self
+
+end
+
+end

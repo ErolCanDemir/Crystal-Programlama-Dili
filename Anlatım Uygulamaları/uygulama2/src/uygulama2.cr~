@@ -1,0 +1,7 @@
+require "./uygulama2/*"
+
+module Uygulama2
+
+veri = :? 
+puts veri
+end

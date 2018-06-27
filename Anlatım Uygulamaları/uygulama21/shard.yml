@@ -1,0 +1,13 @@
+name: uygulama21
+version: 0.1.0
+
+authors:
+  - [your-name-here] <[your-email-here]>
+
+targets:
+  uygulama21:
+    main: src/uygulama21.cr
+
+crystal: 0.23.1
+
+license: MIT
