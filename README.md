@@ -5,7 +5,7 @@ Dilin özellikleri başta olmak üzere dil ile ilgili bilgilerden başlayarak di
 İçerisinde daha rahat anlaşılıp pekiştirilmesi için basitten zora doğru uygulamalar bulunmaktadır.
 
       ANLATIM SÜRÜMÜ
--------------------------
+--------------------------
 Bu sürümde hiç bilmeyen bir insana Crystal programlama dilini sıfırdan öğretecek şekilde bilgilendirme ve anlatım yapılmaktadır.
 İçerisinde ki 33'ü aşkın uygulama her öğrenilen alanı sırasyla pekiştirmeyi sağlamaktadır.
 
